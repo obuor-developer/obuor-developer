@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @obuor-developer
 - 👀 I’m interested in software engineer role
 - 🌱 I’m currently learning more programming language.
-- 💞️ I’m looking to collaborate on serious developers
+- 💞️ I’m looking to collaborate with serious developers
 - 📫 How to reach me iobuor88@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
